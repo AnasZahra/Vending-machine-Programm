@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Bier
+comment0.text=\r\n\ Klasse\ Bier\ ist\ von\ Klasse\ AlkoholischesGetraenk\ erweitert\r\n\r\n\ @author\ Jandsot\ ,\ Anas\ \r\n\ @version\ *1213*\r\n
+comment1.params=brauerei\ alkoholgehalt
+comment1.target=Bier(java.lang.String,\ float)
+comment1.text=\r\n\r\n\ @param\ brauerei\r\n\ @param\ alkoholgehalt\r\n
+comment2.params=
+comment2.target=java.lang.String\ getBierArt()
+comment2.text=\r\n\ gibt\ die\ brauerei\ zurueck\r\n\ @return\ brauerei\ company\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\r\n\ @return\ -\ gibt\ die\ brauerei\ und\ alkoholgehalt\ aus\r\n
+numComments=4

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=AlkoholfreiesGetraenk
+comment0.text=\r\n\ Klasse\ AlkoholfreiesGetraenk\ ist\ eine\ erweiterung\ der\ Klasse\ Getraenk\r\n\r\n\ @author\ Jandsot\ ,\ Anas\ \r\n\ @version\ *1213*\r\n
+comment1.params=
+comment1.target=java.lang.String\ getHersteller()
+comment1.text=\r\n\ \ get\ methode\ zeigt\ der\ Hersteller\r\n\ @return\ -\ Hersteller\r\n
+comment2.params=
+comment2.target=java.lang.String\ setHersteller()
+comment2.text=\r\n\ set\ methode\ ersetzt\r\n\ @set\ -\ Hersteller\ ersetzen\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\r\n\ @return\ -\ gibt\ die\ hersteller\ und\ Hersteller\ aus\r\n
+numComments=4

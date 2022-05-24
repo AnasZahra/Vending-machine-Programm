@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Getraenk
+comment0.text=\r\n\ Klasse\ Getraenk\ davon\ es\ werden\ mehrere\ klassen\ vererbt\r\n\r\n\ @author\ Jandsot\ ,\ Anas\ \r\n\ @version\ *1213*\r\n
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment1.text=\r\ntoString\ gibt\ alles\ in\ ein\ zeichen\ kette\ zur\u00FCk.\r\n\ @return\ -\ gibt\ ein\ String\ aus.\r\n
+numComments=2

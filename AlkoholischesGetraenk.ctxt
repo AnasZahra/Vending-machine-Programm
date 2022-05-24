@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=AlkoholischesGetraenk
+comment0.text=\r\n\ Klasse\ AlkoholischesGetraenk\ ist\ eine\ erweiterung\ der\ Klasse\ Getraenk\r\n\r\n\ @author\ Jandsot\ ,\ Anas\ \r\n\ @version\ *1213*\r\n
+comment1.params=
+comment1.target=float\ GetGehalt()
+comment2.params=
+comment2.target=float\ setGehalt()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4

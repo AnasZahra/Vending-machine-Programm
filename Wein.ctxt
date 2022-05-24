@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Wein
+comment0.text=\r\n\ Klasse\ Wein\ ist\ von\ Klasse\ AlkoholischesGetraenk\ erweitert\r\n\r\n\ @author\ Jandsot\ ,\ Anas\ \r\n\ @version\ *1213*\r\n
+comment1.params=weingut
+comment1.target=Wein(java.lang.String)
+comment1.text=\r\n\ Das\ kontruktor\ setzt\ das\ ein\ gegebene\ Weingut.\r\n\ @param\ weingut\r\n
+comment2.params=
+comment2.target=java.lang.String\ getWeingut()
+comment2.text=\r\n\ get\ methode\ gibt\ das\ weingut\ zurueck\r\n\ @return\ -\ weingut.\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\ toString\ gibt\ alles\ in\ ein\ zeichen\ kette\ zur\u00FCck.\r\n\ @return\ -\ gibt\ Weingut\ und\ Weinart\ aus.\r\n
+numComments=4

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=SoftDrink
+comment0.text=\r\n\ Klasse\ SoftDrink\ gibt\ eine\ AlkoholfreiesGetraenk\r\n\r\n\ @author\ Jandsot\ ,\ Anas\ \r\n\ @version\ *1213*\r\n
+comment1.params=zuckergehalt\ softDrinkHersteller
+comment1.target=SoftDrink(float,\ java.lang.String)
+comment1.text=\r\n\r\n\ @param\ zuckergehalt\r\n\ @param\ softDrinkHersteller\r\n
+comment2.params=
+comment2.target=float\ getZuckergehalt()
+comment2.text=\r\n\ get\ methode\ gibt\ das\ zuckergehalt\ zurueck.\r\n\ @return\ gibt\ zuckergehalt\ zurueck.\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\ \ Disen\ Konstruktor\ Vererbt\ von\ oberen\ klasse.\r\n\ @return\ gibt\ die\ Zuckergehalt\ und\ Hersteller\ aus.\r\n
+numComments=4

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Getraenkautomat
+comment0.text=\r\n\ Klasse\ Getraenkautomat\ ist\ ein\ generics\ Klasse\ und\ enthaelt\ die\ Automat\ methoden\r\n\ @author\ Jandsot\ ,\ Anas\r\n\ @version\ *1213*\r\n
+comment1.params=kapazitaet
+comment1.target=Getraenkautomat(int)
+comment1.text=\r\n\ Die\ ArrayList\ kann\ Objekte\ vom\ Typ\ des\ Typ-Parameters\ und\ aller\ Subklassen\r\n\ speichern.\r\n
+comment2.params=
+comment2.target=int\ getSize()
+comment2.text=\r\n\ gibt\ die\ size\ zurueck.\r\n\ @return\ size\ is\ all\ the\ size\ of\ the\ automat.\r\n
+comment3.params=
+comment3.target=int\ getKapazitaet()
+comment3.text=\r\n\ gibt\ die\ kapazitaet\ zurueck.\r\n\ @return\ kapazitaet\ z.B\ 10\ flaschen.\r\n
+comment4.params=flasche
+comment4.target=void\ flascheEinlegen(Flasche)
+comment4.text=\r\n\ Diese\ Methode\ nimmt\ ein\ Objekt\ vom\ Typ\ Flasche\ entgegen\ und\r\n\ speichert\ es,\ falls\ noch\ Kapazit\u00E4t\ vorhanden\ ist,\ im\ falschenlager.\ Der\ Inhalt\ der\r\n\ \u00FCbergebenen\ Flasche\ muss\ vom\ Typ\ des\ Typ-Parameters\ oder\ einer\ Subklasse\ sein.\ Es\r\n\ sollen\ nur\ volle\ Flaschen\ in\ den\ Automaten\ eingelegt\ werden\ k\u00F6nnen.\ Dies\ muss\ daher\r\n\ gepr\u00FCft\ werden.\r\n
+comment5.params=
+comment5.target=Flasche\ flascheAusgeben()
+comment5.text=\r\n\ Diese\ Methode\ gibt\ eine\ Flasche\ aus\ dem\ Flaschenlager\ zur\u00FCck.\ Der\r\n\ Getraenkeautomat\ soll\ nach\ dem\ "First\ in,\ first\ out"-Prinzip\ arbeiten\ (Ja,\ ein\ solches\ Verhalten\r\n\ ist\ f\u00FCr\ einen\ Getr\u00E4nkeautomaten\ ungew\u00F6hnlich,\ wird\ aber\ hier\ zur\ Vereinfachung\r\n\ der\ Aufgabe\ so\ implementiert\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ die\ toString()-Methode\ so,\ dass\ der\ gesamte\ Inhalt\ des\ Automaten\ ausgegeben\ wird.\r\n\r\n\ @return\ -\ list\ sind\ gesamte\ Inhalt\ des\ Automaten.\r\n
+numComments=7

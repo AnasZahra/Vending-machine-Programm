@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Flasche
+comment0.text=\r\n\ Klasse\ Flasse\ enthaelt\ methoden\ fuellen\ und\ leeren\ und\ wird\ im\ automat\ benutzt\r\n\r\n\ @author\ Jandsot\ ,\ Anas\r\n\ @version\ *1213*\r\n
+comment1.params=inhalt
+comment1.target=Flasche(Getraenk)
+comment2.params=getraenk
+comment2.target=void\ fuellen(Getraenk)
+comment2.text=\r\n\ Die\ Methode\ fuellen\ nimmt\ ein\ passendes\ Getraenk-Objekt.\r\n\ entgegen\ und\ setze\ es\ als\ inhalt.\r\n
+comment3.params=
+comment3.target=void\ leeren()
+comment3.text=\r\n\ Die\ Methode\ leeren\ leert\ die\ Flasche.\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ toString\ gibt\ alles\ in\ ein\ zeichen\ kette\ zur\u00FCck.\r\n\ @return\ -\ gibt\ das\ inhalt\ aus.\r\n
+numComments=5

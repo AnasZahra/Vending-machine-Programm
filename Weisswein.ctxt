@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Weisswein
+comment0.text=\r\n\ Klasse\ Weisswein\ ist\ von\ Wein\ klasse\ erweitert\r\n\r\n\ @author\ Jandsot\ ,\ Anas\ \r\n\ @version\ *1213*\r\n
+comment1.params=weingut\ alkoholgehalt
+comment1.target=Weisswein(java.lang.String,\ float)
+comment1.text=\r\n\ Diese\ Konstruktor\ Vererbt\ von\ oberen\ klasse.\r\n\ @param\ weingut\ ist\ das\ herstehler\ von\ das\ wein.\r\n\ @param\ alkoholgehalt\ ist\ das\ alkoholgehalt\ in\ float\ Z.B.\ 3.4%\ ,\ 5.0%.\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ toString\ gibt\ alles\ in\ ein\ zeichenkette\ zur\u00FCck.\r\n\ @return\ gibt\ Weingut\ aus.\r\n
+numComments=3

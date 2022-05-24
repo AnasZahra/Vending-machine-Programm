@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Wasser
+comment0.text=\r\n\ Klasse\ Wasser\ gibt\ eine\ AlkoholfreiesGetraenk\ \r\n\r\n\ @author\ Jandsot\ ,\ Anas\ \r\n\ @version\ *1213*\r\n
+comment1.params=quelle\ hersteller
+comment1.target=Wasser(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\r\n\ @param\ quelle\ -\ Water\ source.\r\n\ @param\ hersteller\ -\ Company\ name.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getQuelle()
+comment2.text=\r\n\ \ get\ methode\ gibt\ das\ wasserquelle\ zurueck.\r\n\ \ @return\ gibt\ die\ wasser\ quelle\ zurueck.\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\ toString\ gibt\ alles\ in\ ein\ zeichen\ kette\ zur\u00FCck.\r\n\ @return\ -\ gibt\ quelle\ und\ hersteller\ aus.\r\n
+numComments=4
